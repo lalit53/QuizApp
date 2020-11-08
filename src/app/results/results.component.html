@@ -1,0 +1,8 @@
+<!-- <p>results works!</p> -->
+<!-- // src/results/results.component.html -->
+<mat-card>
+    <mat-card-title class="title">Results</mat-card-title>
+    <mat-card-content class="answer mat-app-background" *ngFor="let a of answers.values" [ngClass]="{correct: a.correct}">
+      {{a.value}}
+    </mat-card-content>
+  </mat-card>

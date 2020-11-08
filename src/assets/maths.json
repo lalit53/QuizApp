@@ -1,0 +1,121 @@
+[{
+    "label": "What is 80 + 80?",
+    "choices": [{
+        "value": "160",
+        "correct": true
+      },
+      {
+        "value": "123",
+        "correct": false
+      },
+      {
+        "value": "456",
+        "correct": false
+      },
+      {
+        "value": "3456",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is 80 + 80?",
+    "choices": [{
+        "value": "6400",
+        "correct": true
+      },
+      {
+        "value": "3333",
+        "correct": false
+      },
+      {
+        "value": "1234",
+        "correct": false
+      },
+      {
+        "value": "567",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is 10 * 77?",
+    "choices": [{
+        "value": "23100",
+        "correct": false
+      },
+      {
+        "value": "770",
+        "correct": true
+      },
+      {
+        "value": "7567",
+        "correct": false
+      },
+      {
+        "value": "345",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is 1222 + 2000?",
+    "choices": [{
+        "value": "3222",
+        "correct": true
+      },
+      {
+        "value": "756",
+        "correct": false
+      },
+      {
+        "value": "3456",
+        "correct": false
+      },
+      {
+        "value": "23456",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is 2 * 3?",
+    "choices": [{
+        "value": "6",
+        "correct": true
+      },
+      {
+        "value": "3",
+        "correct": false
+      },
+      {
+        "value": "6",
+        "correct": false
+      },
+      {
+        "value": "234",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is 10 - 9?",
+    "choices": [{
+        "value": "4",
+        "correct": false
+      },
+      {
+        "value": "1",
+        "correct": true
+      },
+      {
+        "value": "5",
+        "correct": false
+      },
+      {
+        "value": "3",
+        "correct": false
+      }
+    ]
+  }
+]
